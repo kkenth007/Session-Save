@@ -1,0 +1,183 @@
+﻿﻿{
+   "sessions": [
+      {
+         "type": "saved",
+         "name": "javascript",
+         "generated": "2018-11-13T11:56:33.497Z",
+         "created": "2018-11-13T11:56:45.661Z",
+         "modified": "2018-11-13T11:56:45.661Z",
+         "id": 6,
+         "gid": "mSsGyMs9gZO5OxLeuhxR9hkcXXrQU9Z4",
+         "windows": [
+            {
+               "alwaysOnTop": false,
+               "focused": true,
+               "height": 886,
+               "id": 2016939290,
+               "incognito": false,
+               "left": -8,
+               "state": "maximized",
+               "tabs": [
+                  {
+                     "active": false,
+                     "audible": false,
+                     "autoDiscardable": true,
+                     "discarded": false,
+                     "favIconUrl": "https://s.ytimg.com/yts/img/favicon_32-vflOogEID.png",
+                     "height": 768,
+                     "highlighted": false,
+                     "id": 2016939295,
+                     "incognito": false,
+                     "index": 0,
+                     "mutedInfo": {
+                        "muted": false
+                     },
+                     "pinned": false,
+                     "selected": false,
+                     "status": "complete",
+                     "title": "Angular 7 CRUD using Firestore - YouTube",
+                     "url": "https://www.youtube.com/watch?v=5I6k77uqtLY&list=PLjC4UKOOcfDQjfU3FHqKzTwKwoNYp0ki_&index=2",
+                     "width": 1600,
+                     "windowId": 2016939290
+                  },
+                  {
+                     "active": false,
+                     "audible": false,
+                     "autoDiscardable": true,
+                     "discarded": false,
+                     "favIconUrl": "https://www.udemy.com/staticx/udemy/images/v6/favicon-32x32.png",
+                     "height": 719,
+                     "highlighted": false,
+                     "id": 2016939443,
+                     "incognito": false,
+                     "index": 1,
+                     "mutedInfo": {
+                        "muted": false
+                     },
+                     "pinned": false,
+                     "selected": false,
+                     "status": "complete",
+                     "title": "Bootstrap 4 : Building Projects | Udemy",
+                     "url": "https://www.udemy.com/bootstrap-4-building-projects/learn/v4/overview",
+                     "width": 1600,
+                     "windowId": 2016939290
+                  },
+                  {
+                     "active": false,
+                     "audible": false,
+                     "autoDiscardable": true,
+                     "discarded": false,
+                     "favIconUrl": "https://www.udemy.com/staticx/udemy/images/v6/favicon-32x32.png",
+                     "height": 719,
+                     "highlighted": false,
+                     "id": 2016939437,
+                     "incognito": false,
+                     "index": 2,
+                     "mutedInfo": {
+                        "muted": false
+                     },
+                     "pinned": false,
+                     "selected": false,
+                     "status": "complete",
+                     "title": "Online Courses - Anytime, Anywhere | Udemy",
+                     "url": "https://www.udemy.com/cart/success/171172008/",
+                     "width": 1600,
+                     "windowId": 2016939290
+                  },
+                  {
+                     "active": false,
+                     "audible": false,
+                     "autoDiscardable": true,
+                     "discarded": false,
+                     "favIconUrl": "https://www.udemy.com/staticx/udemy/images/v6/favicon-32x32.png",
+                     "height": 719,
+                     "highlighted": false,
+                     "id": 2016939439,
+                     "incognito": false,
+                     "index": 3,
+                     "mutedInfo": {
+                        "muted": false
+                     },
+                     "pinned": false,
+                     "selected": false,
+                     "status": "complete",
+                     "title": "JavaScript and ES6 Challenges - Do you know JavaScript? | Udemy",
+                     "url": "https://www.udemy.com/javascript-and-es6-challenges/learn/v4/overview",
+                     "width": 1600,
+                     "windowId": 2016939290
+                  },
+                  {
+                     "active": false,
+                     "audible": false,
+                     "autoDiscardable": true,
+                     "discarded": false,
+                     "favIconUrl": "https://www.udemy.com/staticx/udemy/images/v6/favicon-32x32.png",
+                     "height": 719,
+                     "highlighted": false,
+                     "id": 2016939445,
+                     "incognito": false,
+                     "index": 4,
+                     "mutedInfo": {
+                        "muted": false
+                     },
+                     "pinned": false,
+                     "selected": false,
+                     "status": "complete",
+                     "title": "Build Responsive Website Using HTML5, CSS3, JS And Bootstrap | Udemy",
+                     "url": "https://www.udemy.com/build-responsive-website-using-html5-css3-js-and-bootstrap/learn/v4/overview",
+                     "width": 1600,
+                     "windowId": 2016939290
+                  },
+                  {
+                     "active": false,
+                     "audible": false,
+                     "autoDiscardable": true,
+                     "discarded": false,
+                     "favIconUrl": "https://www.udemy.com/staticx/udemy/images/v6/favicon-32x32.png",
+                     "height": 719,
+                     "highlighted": false,
+                     "id": 2016939447,
+                     "incognito": false,
+                     "index": 5,
+                     "mutedInfo": {
+                        "muted": false
+                     },
+                     "pinned": false,
+                     "selected": false,
+                     "status": "complete",
+                     "title": "ExpertJS: Learn To Develop JavaScript Apps Like An Expert | Udemy",
+                     "url": "https://www.udemy.com/expertjs-learn-to-develop-javascript-apps-like-an-expert/learn/v4/overview",
+                     "width": 1600,
+                     "windowId": 2016939290
+                  },
+                  {
+                     "active": false,
+                     "audible": false,
+                     "autoDiscardable": true,
+                     "discarded": false,
+                     "favIconUrl": "https://www.udemy.com/staticx/udemy/images/v6/favicon-32x32.png",
+                     "height": 719,
+                     "highlighted": false,
+                     "id": 2016939428,
+                     "incognito": false,
+                     "index": 6,
+                     "mutedInfo": {
+                        "muted": false
+                     },
+                     "pinned": false,
+                     "selected": false,
+                     "status": "complete",
+                     "title": "#1 Complete NodeJs Express Single-Page App [The FUTURE] | Udemy",
+                     "url": "https://www.udemy.com/toufiqelahy3/learn/v4/overview",
+                     "width": 1600,
+                     "windowId": 2016939290
+                  }
+               ],
+               "top": -8,
+               "type": "normal",
+               "width": 1616
+            }
+         ]
+      }
+   ]
+}
